@@ -11,7 +11,7 @@ Fonctionnalités:
 ## Étapes du Projet
 1. Configuration de l'Environnement
 
-Avant de commencer, je me suis assuré que vous les éléments suivants installés sur mon système :
+Avant de commencer, je me suis assuré que tous les éléments suivants installés sur mon système :
 
     Java Development Kit (JDK)
     Maven
